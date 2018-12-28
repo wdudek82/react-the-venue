@@ -1,0 +1,13 @@
+[ignore]
+;<PROJECT_ROOT>/.idea/.*
+;<PROJECT_ROOT>/public/.*
+<PROJECT_ROOT>/node_modules/.*
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+
+[strict]
